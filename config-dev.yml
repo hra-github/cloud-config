@@ -1,5 +1,6 @@
 config:
-  info: springcloud/config-dev.yml varsion=5
+  info: springcloud/config-dev.yml varsion=5 msg=我是开发版
+  
 eureka:
   client:
     register-with-eureka: true
