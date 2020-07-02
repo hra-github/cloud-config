@@ -1,0 +1,2 @@
+config:
+  info: springcloud/config-dev.yml
