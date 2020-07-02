@@ -1,2 +1,2 @@
 config:
-  info: springcloud/config-test.yml
+  info: springcloud/config-test.yml varsion=1

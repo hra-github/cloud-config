@@ -1,5 +1,5 @@
 config:
-  info: springcloud/config-dev.yml
+  info: springcloud/config-dev.yml varsion=1
 
 eureka:
   client:

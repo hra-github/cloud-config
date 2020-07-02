@@ -1,2 +1,2 @@
 config:
-  info: springcloud/config-prod.yml
+  info: springcloud/config-prod.yml varsion=1
