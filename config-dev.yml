@@ -1,5 +1,5 @@
 config:
-  info: springcloud/config-dev.yml varsion=2
+  info: springcloud/config-dev.yml varsion=3
 eureka:
   client:
     register-with-eureka: true
